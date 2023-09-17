@@ -1,0 +1,16 @@
+---
+object: set
+id: 63fb2d9f-a193-4dac-b160-dd117b3e3053
+code: tdvd
+name: 'Duel Decks Anthology: Divine vs. Demonic Tokens'
+uri: https://api.scryfall.com/sets/63fb2d9f-a193-4dac-b160-dd117b3e3053
+scryfall_uri: https://scryfall.com/sets/tdvd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atdvd&unique=prints
+released_at: '2014-12-05'
+set_type: token
+card_count: 3
+parent_set_code: dvd
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddc.svg?1694404800
